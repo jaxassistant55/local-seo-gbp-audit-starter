@@ -1,0 +1,25 @@
+---
+name: Paid local SEO GBP audit inquiry
+about: Request a fixed-scope local SEO and Google Business Profile audit
+title: "Paid inquiry: local seo / gbp audit"
+labels: paid-inquiry, needs-scope
+---
+
+## Buyer Request
+
+- Business name:
+- Service area:
+- Public website or profile URL:
+- Primary services:
+- Top competitors if known:
+
+## Scope Acceptance
+
+- [ ] I understand the listed price is $175.
+- [ ] I can provide authorized public or buyer-owned inputs.
+- [ ] I understand payment must happen through a seller-controlled external payment route before paid custom work starts.
+- [ ] I will not post private data, credentials, payment screenshots, or sensitive files in this public issue.
+
+## Proof Rule
+
+This issue is not payment proof. Money counts only after external payment is posted, released, payable, or cleared.

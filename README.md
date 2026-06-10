@@ -5,6 +5,8 @@ Free public preview for a fixed-scope Local SEO / GBP Audit.
 This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-audit.html
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-local-seo-gbp-audit.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/local-seo-gbp-audit-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/local-seo-gbp-audit-starter/demo/
 - Repo order board: https://github.com/jaxassistant55/local-seo-gbp-audit-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-brief-builder.html

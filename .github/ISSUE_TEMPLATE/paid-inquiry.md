@@ -5,6 +5,11 @@ title: "Paid inquiry: local seo / gbp audit"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-local-seo-gbp-audit.html
+- Prefilled inquiry page: https://jaxassistant55.github.io/local-seo-gbp-audit-starter/inquiry.html
+
 ## Buyer Request
 
 - Business name:

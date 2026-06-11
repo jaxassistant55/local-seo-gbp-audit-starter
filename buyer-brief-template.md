@@ -1,6 +1,7 @@
 # Buyer Brief Template: Local SEO / GBP Audit
 
 Listed price: $175
+Hot close room: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
 Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-audit.html
 Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-brief-builder.html
 Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/21

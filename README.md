@@ -4,6 +4,7 @@ Free public preview for a fixed-scope Local SEO / GBP Audit.
 
 This repository exists as a lead surface for a paid service:
 
+- Hot close room for preview downloaders: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-audit.html
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-local-seo-gbp-audit.html
 - Prefilled inquiry page: https://jaxassistant55.github.io/local-seo-gbp-audit-starter/inquiry.html
@@ -24,6 +25,8 @@ This repository exists as a lead surface for a paid service:
 ## Paid Scope
 
 The paid service can produce a buyer-specific fixed-scope deliverable based on authorized public or buyer-provided inputs. The final scope must be accepted before custom work starts.
+
+If you downloaded the preview ZIP and want the fastest paid path, start with the hot close room. It lists the $175 fixed scope, safe inputs, delivery proof, acceptance gate, and next step before any paid work starts.
 
 Not included: payment processing, login systems, private scraping, regulated legal/medical/financial advice, credential handling, or ongoing maintenance unless separately scoped.
 

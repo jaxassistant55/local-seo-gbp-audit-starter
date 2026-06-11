@@ -1,8 +1,12 @@
 # Order The Local SEO / GBP Audit
 
-Fast path for returning preview downloaders:
+Fast path for returning preview downloaders. Start here before the broader scope builder because this page already has the ready-to-pay issue link, sample proof, buyer acceptance checklist, payment activation route, proof-folder guidance, and money boundary:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
+
+Sample proof:
+
+https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-sample-pack/README.md
 
 Use the public scope builder first:
 

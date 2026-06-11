@@ -7,6 +7,7 @@ This repository exists as a lead surface for a paid service:
 - Hot close room for preview downloaders: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-audit.html
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-local-seo-gbp-audit.html
+- Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/local-seo-gbp-audit-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/local-seo-gbp-audit-starter/demo/
 - Repo order board: https://github.com/jaxassistant55/local-seo-gbp-audit-starter/issues/1

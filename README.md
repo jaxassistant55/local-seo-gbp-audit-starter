@@ -13,6 +13,7 @@ That page includes the $175 fixed scope, ready-to-pay issue link, sample proof, 
 This repository exists as a lead surface for a paid service:
 
 - Hot close room for preview downloaders: https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
+- Structured ready-to-pay issue form: https://github.com/jaxassistant55/local-seo-gbp-audit-starter/issues/new?template=ready-to-pay-local-seo-gbp-audit.yml
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-audit.html
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-local-seo-gbp-audit.html
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation

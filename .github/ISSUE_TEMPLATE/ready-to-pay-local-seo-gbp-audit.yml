@@ -13,6 +13,12 @@ body:
 
         Price: $175 fixed scope. This public issue is not payment proof. Paid work starts only after scope is accepted and external payment proof exists through a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request.
 
+        Terms and exact acceptance:
+        https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-audit-terms.html
+
+        Exact statement to paste below:
+        I accept the Local SEO / GBP Audit fixed-scope terms at $175. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-authorized non-sensitive business details; the audit is limited to public website/profile review, category/citation/review/landing-page observations, and a prioritized action checklist; and Google account login work, profile claiming/verification, fake reviews, paid ads, legal advice, publishing edits, ongoing SEO, or extra revisions are not included unless separately agreed before payment.
+
         Do not post private customer data, credentials, payment screenshots, API keys, or sensitive business files in this issue.
   - type: checkboxes
     id: scope_boundary
@@ -27,6 +33,16 @@ body:
           required: true
         - label: I can provide authorized public or buyer-owned inputs for the audit.
           required: true
+        - label: I have reviewed the Local SEO / GBP Audit terms page and will paste the exact acceptance statement below.
+          required: true
+  - type: textarea
+    id: exact_terms_acceptance
+    attributes:
+      label: Exact terms acceptance statement
+      description: Paste the exact statement from the terms page. Material edits must be clarified before payment.
+      placeholder: I accept the Local SEO / GBP Audit fixed-scope terms at $175. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-authorized non-sensitive business details; the audit is limited to public website/profile review, category/citation/review/landing-page observations, and a prioritized action checklist; and Google account login work, profile claiming/verification, fake reviews, paid ads, legal advice, publishing edits, ongoing SEO, or extra revisions are not included unless separately agreed before payment.
+    validations:
+      required: true
   - type: input
     id: business_name
     attributes:

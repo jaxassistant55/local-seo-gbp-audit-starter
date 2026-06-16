@@ -19,6 +19,11 @@ body:
         Route-specific payment handoff after exact acceptance:
         https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#local-seo-gbp-audit-starter
 
+        Matching one-sale payment packet after exact acceptance:
+        https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-payment-packets.html#central-local-seo-gbp-audit
+
+        Use this packet after acceptance to paste only a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL into the buyer message.
+
         Exact statement to paste below:
         I accept the Local SEO / GBP Audit fixed-scope terms at $175. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-authorized non-sensitive business details; the audit is limited to public website/profile review, category/citation/review/landing-page observations, and a prioritized action checklist; and Google account login work, profile claiming/verification, fake reviews, paid ads, legal advice, publishing edits, ongoing SEO, or extra revisions are not included unless separately agreed before payment.
 

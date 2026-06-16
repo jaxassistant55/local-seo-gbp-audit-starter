@@ -93,3 +93,18 @@ The issue is not payment proof. It is only a public intake thread. Paid work or 
 ## Payment Boundary
 
 The hot close room, public issue, preview ZIP, release download, page view, star, or fork is not payment. The $175 audit becomes countable only after a real buyer accepts the fixed scope, pays through a seller-controlled external route, receives delivery, and payment is posted, released, payable, or cleared.
+
+<!-- standalone-offer-terms:start -->
+## Terms And Exact Acceptance
+
+- Standalone terms: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-offer-terms.html#local-seo-gbp-audit-starter
+- Terms CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone_offer_terms.csv
+- Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation.html
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+Exact acceptance statement:
+
+> I accept the Local SEO / GBP Audit fixed-scope terms at $175. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-authorized non-sensitive business details; the audit is limited to public website/profile review, category/citation/review/landing-page observations, and a prioritized action checklist; and Google account login work, profile claiming/verification, fake reviews, paid ads, legal advice, publishing edits, ongoing SEO, or extra revisions are not included unless separately agreed before payment.
+
+This repository remains a public lead surface and counts $0 until a real buyer accepts terms, pays through a seller-owned external route, receives delivery or transfer, and payment is posted, released, payable, or cleared.
+<!-- standalone-offer-terms:end -->

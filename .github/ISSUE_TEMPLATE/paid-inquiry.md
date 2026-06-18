@@ -39,6 +39,19 @@ Use this path when the buyer wants the shortest fixed-scope route to a $100 paid
 - Direct payment handoff after exact acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#local-seo-gbp-audit-starter
 - Standalone terms and exact acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-offer-terms.html#local-seo-gbp-audit-starter
 <!-- standalone-payment-handoff:end -->
+<!-- warm-preflight-template-routing:start -->
+## Fastest Buyer Preflight And Exact Acceptance
+
+- Build a public-safe preflight brief first: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-brief-builder.html
+- Review exact acceptance for this route: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest-100-buyer-acceptance.html#hot-download-local-seo-gbp-audit-starter
+- Use the after-download close page: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html
+- Open the ready-to-pay form: https://github.com/jaxassistant55/local-seo-gbp-audit-starter/issues/new?template=ready-to-pay-local-seo-gbp-audit.yml
+- Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+Observed interest: preview downloads=2; close-ready downloads=0. Price: $175. Confirmed money remains $0. This issue template, preflight brief, page views, downloads, and generated acceptance text are not payment proof.
+<!-- warm-preflight-template-routing:end -->
+
 ## Buyer Request
 
 - Business name:

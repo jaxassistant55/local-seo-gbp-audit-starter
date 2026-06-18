@@ -1,141 +1,171 @@
 name: Ready-to-pay Local SEO GBP Audit
-description: Submit safe public inputs for the fixed-scope $175 local SEO and Google Business Profile audit
-title: "Ready to pay: Local SEO GBP Audit"
+description: Submit safe public inputs for the fixed-scope $175 local SEO and Google
+  Business Profile audit
+title: 'Ready to pay: Local SEO GBP Audit'
 labels:
-  - paid-inquiry
-  - ready-to-pay
-  - needs-scope
+- paid-inquiry
+- ready-to-pay
+- needs-scope
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Fastest $100 Start:
-        - Page: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest-100-start.html
-        - Route CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest_100_start.csv
-        - Payment packets after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-payment-packets.html
-        - Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
-        - Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+- type: markdown
+  attributes:
+    value: |
+      Fastest $100 Start:
+      - Page: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest-100-start.html
+      - Route CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest_100_start.csv
+      - Payment packets after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-payment-packets.html
+      - Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+      - Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
 
-        Use this path when the buyer wants the shortest fixed-scope route to a $100 paid order. This issue is intake only; money counts only after accepted scope, seller-owned external payment proof, delivery proof, and posted/released/payable/cleared funds exist.
-  - type: markdown
-    attributes:
-      value: |
-        Use this form only when you want the fixed-scope Local SEO / GBP Audit and can provide authorized public or buyer-owned inputs.
+      Use this path when the buyer wants the shortest fixed-scope route to a $100 paid order. This issue is intake only; money counts only after accepted scope, seller-owned external payment proof, delivery proof, and posted/released/payable/cleared funds exist.
+- type: markdown
+  attributes:
+    value: |
+      Fastest buyer preflight and exact acceptance:
+      - Build a public-safe preflight brief first: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-brief-builder.html
+      - Review the exact acceptance room for this route: https://jaxassistant55.github.io/jax-micro-offer-studio/fastest-100-buyer-acceptance.html#hot-download-local-seo-gbp-audit-starter
+      - Use the after-download close page if you came from a preview/download: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html
+      - Payment activation after accepted scope: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+      - Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
 
-        Price: $175 fixed scope. This public issue is not payment proof. Paid work starts only after scope is accepted and external payment proof exists through a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request.
+      Observed interest: preview downloads=2; close-ready downloads=0. Price: $175. Confirmed money remains $0. This form, preflight brief, page views, downloads, and generated acceptance text are not payment proof. Count money only after real buyer acceptance, seller-owned external payment proof, delivery proof, and posted/released/payable/cleared funds.
+- type: markdown
+  attributes:
+    value: |
+      Use this form only when you want the fixed-scope Local SEO / GBP Audit and can provide authorized public or buyer-owned inputs.
 
-        Current after-download close path:
-        https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html
+      Price: $175 fixed scope. This public issue is not payment proof. Paid work starts only after scope is accepted and external payment proof exists through a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request.
 
-        Terms and exact acceptance:
-        https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-audit-terms.html
+      Current after-download close path:
+      https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html
 
-        Route-specific payment handoff after exact acceptance:
-        https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#local-seo-gbp-audit-starter
+      Terms and exact acceptance:
+      https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-gbp-audit-terms.html
 
-        Matching one-sale payment packet after exact acceptance:
-        https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-payment-packets.html#central-local-seo-gbp-audit
+      Route-specific payment handoff after exact acceptance:
+      https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#local-seo-gbp-audit-starter
 
-        Use this packet after acceptance to paste only a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL into the buyer message.
+      Matching one-sale payment packet after exact acceptance:
+      https://jaxassistant55.github.io/jax-micro-offer-studio/one-sale-payment-packets.html#central-local-seo-gbp-audit
 
-        Exact statement to paste below:
-        I accept the Local SEO / GBP Audit fixed-scope terms at $175. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-authorized non-sensitive business details; the audit is limited to public website/profile review, category/citation/review/landing-page observations, and a prioritized action checklist; and Google account login work, profile claiming/verification, fake reviews, paid ads, legal advice, publishing edits, ongoing SEO, or extra revisions are not included unless separately agreed before payment.
+      Use this packet after acceptance to paste only a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL into the buyer message.
 
-        Do not post private customer data, credentials, payment screenshots, API keys, or sensitive business files in this issue.
-  - type: checkboxes
-    id: scope_boundary
-    attributes:
-      label: Scope and payment boundary
-      options:
-        - label: I understand this issue is public and I will not post private or sensitive data here.
-          required: true
-        - label: I accept that the listed fixed-scope price is $175 before any extra custom work.
-          required: true
-        - label: I understand payment must happen through an external seller-owned route before paid work starts.
-          required: true
-        - label: I can use the after-download close path and payment activation route after seller review, without posting private payment screenshots here.
-          required: true
-        - label: I can provide authorized public or buyer-owned inputs for the audit.
-          required: true
-        - label: I have reviewed the Local SEO / GBP Audit terms page and will paste the exact acceptance statement below.
-          required: true
-  - type: textarea
-    id: exact_terms_acceptance
-    attributes:
-      label: Exact terms acceptance statement
-      description: Paste the exact statement from the terms page. Material edits must be clarified before payment.
-      placeholder: I accept the Local SEO / GBP Audit fixed-scope terms at $175. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-authorized non-sensitive business details; the audit is limited to public website/profile review, category/citation/review/landing-page observations, and a prioritized action checklist; and Google account login work, profile claiming/verification, fake reviews, paid ads, legal advice, publishing edits, ongoing SEO, or extra revisions are not included unless separately agreed before payment.
-    validations:
+      Exact statement to paste below:
+      I accept the Local SEO / GBP Audit fixed-scope terms at $175. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-authorized non-sensitive business details; the audit is limited to public website/profile review, category/citation/review/landing-page observations, and a prioritized action checklist; and Google account login work, profile claiming/verification, fake reviews, paid ads, legal advice, publishing edits, ongoing SEO, or extra revisions are not included unless separately agreed before payment.
+
+      Do not post private customer data, credentials, payment screenshots, API keys, or sensitive business files in this issue.
+- type: checkboxes
+  id: scope_boundary
+  attributes:
+    label: Scope and payment boundary
+    options:
+    - label: I understand this issue is public and I will not post private or sensitive
+        data here.
       required: true
-  - type: input
-    id: business_name
-    attributes:
-      label: Business name
-      description: Public business name only.
-      placeholder: Example Business LLC
-    validations:
+    - label: I accept that the listed fixed-scope price is $175 before any extra custom
+        work.
       required: true
-  - type: input
-    id: service_area
-    attributes:
-      label: Service area
-      description: City, region, or service area to review.
-      placeholder: Austin, TX or remote US
-    validations:
+    - label: I understand payment must happen through an external seller-owned route
+        before paid work starts.
       required: true
-  - type: input
-    id: public_url
-    attributes:
-      label: Public website or profile URL
-      description: Public website, Google Business Profile, or other public listing URL.
-      placeholder: https://example.com
-    validations:
+    - label: I can use the after-download close path and payment activation route
+        after seller review, without posting private payment screenshots here.
       required: true
-  - type: textarea
-    id: services
-    attributes:
-      label: Primary services to emphasize
-      description: List public service categories or keywords.
-      placeholder: |
-        - Emergency plumbing
-        - Water heater repair
-        - Drain cleaning
-    validations:
+    - label: I can provide authorized public or buyer-owned inputs for the audit.
       required: true
-  - type: textarea
-    id: competitors
-    attributes:
-      label: Public competitors or benchmark listings
-      description: Optional public URLs or names. Do not include private notes.
-      placeholder: |
-        - https://competitor.example
-        - Competitor Name
-    validations:
-      required: false
-  - type: dropdown
-    id: desired_turnaround
-    attributes:
-      label: Desired turnaround
-      options:
-        - Flexible, after payment proof
-        - 2 business days after payment proof
-        - 5 business days after payment proof
-        - Need to discuss before payment
-    validations:
+    - label: I have reviewed the Local SEO / GBP Audit terms page and will paste the
+        exact acceptance statement below.
       required: true
-  - type: textarea
-    id: payment_proof_route
-    attributes:
-      label: Payment/proof route preference
-      description: Name the public-safe route you can use after seller review. Do not paste card data, private payment screenshots, tax identifiers, or account details here.
-      placeholder: Seller invoice, marketplace order, funded milestone, checkout link, or payment request after accepted scope.
-    validations:
-      required: true
-  - type: textarea
-    id: acceptance_note
-    attributes:
-      label: Acceptance note
-      description: Confirm the exact deliverable you want and any public-only constraints.
-      placeholder: I want the fixed-scope audit with public-only inputs and a short prioritized action list.
-    validations:
-      required: true
+- type: textarea
+  id: exact_terms_acceptance
+  attributes:
+    label: Exact terms acceptance statement
+    description: Paste the exact statement from the terms page. Material edits must
+      be clarified before payment.
+    placeholder: I accept the Local SEO / GBP Audit fixed-scope terms at $175. I understand
+      work starts only after seller-owned external payment proof exists; I will provide
+      only public or buyer-authorized non-sensitive business details; the audit is
+      limited to public website/profile review, category/citation/review/landing-page
+      observations, and a prioritized action checklist; and Google account login work,
+      profile claiming/verification, fake reviews, paid ads, legal advice, publishing
+      edits, ongoing SEO, or extra revisions are not included unless separately agreed
+      before payment.
+  validations:
+    required: true
+- type: input
+  id: business_name
+  attributes:
+    label: Business name
+    description: Public business name only.
+    placeholder: Example Business LLC
+  validations:
+    required: true
+- type: input
+  id: service_area
+  attributes:
+    label: Service area
+    description: City, region, or service area to review.
+    placeholder: Austin, TX or remote US
+  validations:
+    required: true
+- type: input
+  id: public_url
+  attributes:
+    label: Public website or profile URL
+    description: Public website, Google Business Profile, or other public listing
+      URL.
+    placeholder: https://example.com
+  validations:
+    required: true
+- type: textarea
+  id: services
+  attributes:
+    label: Primary services to emphasize
+    description: List public service categories or keywords.
+    placeholder: |
+      - Emergency plumbing
+      - Water heater repair
+      - Drain cleaning
+  validations:
+    required: true
+- type: textarea
+  id: competitors
+  attributes:
+    label: Public competitors or benchmark listings
+    description: Optional public URLs or names. Do not include private notes.
+    placeholder: |
+      - https://competitor.example
+      - Competitor Name
+  validations:
+    required: false
+- type: dropdown
+  id: desired_turnaround
+  attributes:
+    label: Desired turnaround
+    options:
+    - Flexible, after payment proof
+    - 2 business days after payment proof
+    - 5 business days after payment proof
+    - Need to discuss before payment
+  validations:
+    required: true
+- type: textarea
+  id: payment_proof_route
+  attributes:
+    label: Payment/proof route preference
+    description: Name the public-safe route you can use after seller review. Do not
+      paste card data, private payment screenshots, tax identifiers, or account details
+      here.
+    placeholder: Seller invoice, marketplace order, funded milestone, checkout link,
+      or payment request after accepted scope.
+  validations:
+    required: true
+- type: textarea
+  id: acceptance_note
+  attributes:
+    label: Acceptance note
+    description: Confirm the exact deliverable you want and any public-only constraints.
+    placeholder: I want the fixed-scope audit with public-only inputs and a short
+      prioritized action list.
+  validations:
+    required: true

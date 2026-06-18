@@ -1,5 +1,27 @@
 # Order The Local SEO / GBP Audit
 
+<!-- after-download-order-primary:start -->
+## Start Here For A Returning Preview Downloader
+
+Open the after-download close page first:
+
+https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html
+
+Use this exact sequence:
+
+1. Confirm the buyer accepts the $175 fixed scope.
+2. Confirm the buyer will provide only business name, public website, Google Business Profile URL if available, target city/service area, and 1-3 priority services.
+3. Ask for the exact acceptance statement from the close page.
+4. Send only a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL after acceptance.
+5. Start work only after external payment proof exists.
+6. Deliver only profile/category/citation/review/landing-page observations and a prioritized action checklist.
+7. Count money only after payment is posted, released, payable, or cleared after fees, holds, disputes, and refunds.
+
+Exact acceptance statement:
+
+I accept the Local SEO / GBP Audit fixed-scope terms at $175. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-authorized non-sensitive business details; the audit is limited to public website/profile review, category/citation/review/landing-page observations, and a prioritized action checklist; and Google account login work, profile claiming/verification, fake reviews, paid ads, legal advice, publishing edits, ongoing SEO, or extra revisions are not included unless separately agreed before payment.
+<!-- after-download-order-primary:end -->
+
 Fast path for returning preview downloaders. Start here before the broader scope builder because this page already has the ready-to-pay issue link, sample proof, buyer acceptance checklist, payment activation route, proof-folder guidance, and money boundary:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html

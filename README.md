@@ -150,7 +150,7 @@ This repository remains a public lead surface and counts $0 until a real buyer a
 <!-- local-seo-download-intent-close:start -->
 # After-Download Close Path
 
-Generated 2026-06-18 08:52:03 JST from observed preview-download interest.
+Generated 2026-06-18 19:59:09 JST from observed preview-download interest.
 
 - After-download close page: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html
 - After-download ZIP: https://github.com/jaxassistant55/local-seo-gbp-audit-starter/releases/download/preview-v1/local-seo-gbp-audit-download-intent-close-v1.zip

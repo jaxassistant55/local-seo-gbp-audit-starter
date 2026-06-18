@@ -1,6 +1,6 @@
 # After-Download Close Path
 
-Generated 2026-06-18 08:52:03 JST from observed preview-download interest.
+Generated 2026-06-18 19:59:09 JST from observed preview-download interest.
 
 - After-download close page: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html
 - After-download ZIP: https://github.com/jaxassistant55/local-seo-gbp-audit-starter/releases/download/preview-v1/local-seo-gbp-audit-download-intent-close-v1.zip
@@ -29,7 +29,7 @@ This is a conversion route only. Money remains $0 until a real buyer accepts sco
 <!-- warm-sample-output:start -->
 ## Route-Specific Sample Output Before Ready-To-Pay
 
-A synthetic sample output is now available for Local SEO GBP Audit Starter:
+A synthetic sample output is available for Local SEO GBP Audit Starter:
 
 - Local SEO sample output: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-sample-output.html
 - After-download close page: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html
@@ -39,5 +39,5 @@ A synthetic sample output is now available for Local SEO GBP Audit Starter:
 
 Use the sample output to confirm the expected $175 deliverable shape before opening the ready-to-pay form. The sample, release, issue, page view, download, and form still count $0 until a real buyer accepts scope, pays through a seller-owned external route, receives delivery, and funds are posted, released, payable, or cleared.
 
-Updated 2026-06-18 10:23:52 JST.
+Updated 2026-06-18 19:59:09 JST.
 <!-- warm-sample-output:end -->

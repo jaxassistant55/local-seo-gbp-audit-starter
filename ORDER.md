@@ -22,6 +22,22 @@ Exact acceptance statement:
 I accept the Local SEO / GBP Audit fixed-scope terms at $175. I understand work starts only after seller-owned external payment proof exists; I will provide only public or buyer-authorized non-sensitive business details; the audit is limited to public website/profile review, category/citation/review/landing-page observations, and a prioritized action checklist; and Google account login work, profile claiming/verification, fake reviews, paid ads, legal advice, publishing edits, ongoing SEO, or extra revisions are not included unless separately agreed before payment.
 <!-- after-download-order-primary:end -->
 
+<!-- warm-sample-output:start -->
+## Route-Specific Sample Output Before Ready-To-Pay
+
+A synthetic sample output is now available for Local SEO GBP Audit Starter:
+
+- Local SEO sample output: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-sample-output.html
+- After-download close page: https://jaxassistant55.github.io/jax-micro-offer-studio/local-seo-download-intent-close.html
+- Ready-to-pay form: https://github.com/jaxassistant55/local-seo-gbp-audit-starter/issues/new?template=ready-to-pay-local-seo-gbp-audit.yml
+- Sample-output CSV: https://jaxassistant55.github.io/jax-micro-offer-studio/warm_buyer_sample_outputs.csv
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+
+Use the sample output to confirm the expected $175 deliverable shape before opening the ready-to-pay form. The sample, release, issue, page view, download, and form still count $0 until a real buyer accepts scope, pays through a seller-owned external route, receives delivery, and funds are posted, released, payable, or cleared.
+
+Updated 2026-06-18 10:23:52 JST.
+<!-- warm-sample-output:end -->
+
 Fast path for returning preview downloaders. Start here before the broader scope builder because this page already has the ready-to-pay issue link, sample proof, buyer acceptance checklist, payment activation route, proof-folder guidance, and money boundary:
 
 https://jaxassistant55.github.io/jax-micro-offer-studio/hot-download-close-local-seo-gbp-audit-starter.html
